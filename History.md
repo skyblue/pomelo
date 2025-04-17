@@ -1,3 +1,51 @@
+2.2.7 / 2019-11-8
+=================
+   * [#1150](https://github.com/NetEase/pomelo/pull/1150)
+2.2.6 / 2019-7-10
+=================
+   * [NEW] upgrade pomelo-admin to 1.0.1
+2.2.5 / 2017-1-22
+=================
+  * [#815](https://github.com/NetEase/pomelo/pull/815)
+  * [#901](https://github.com/NetEase/pomelo/pull/901)
+
+2.2.4 / 2017-1-20
+=================
+  * [NEW] upgrade pomelo-rpc to 1.0.7
+
+2.2.3 / 2017-1-20
+=================
+  * [NEW] upgrade socket.io to 1.7.x
+
+2.2.2 / 2017-1-20
+=================
+  * [#899](https://github.com/NetEase/pomelo/pull/899)
+
+2.2.1 / 2017-1-20
+=================
+  * [FIX] fix push message with no array
+
+2.2.0 / 2017-1-19
+=================
+  * [NEW] upgrade pomelo-rpc to 1.0.6, rpc protocol moved to MQTT
+  * [NEW] upgrade pomelo-admin to 1.0.0
+  * [NEW] pure javaScript without need to install c++ addons 
+
+1.2.1 / 2015-12-31
+================
+  * [NEW] upgrade ws to 0.8.0
+  * [#771](https://github.com/NetEase/pomelo/pull/771)
+  * [#774](https://github.com/NetEase/pomelo/pull/774)
+  * [FIX] tls: destory connection when clientError
+
+1.2.0 / 2015-09-18
+=================
+  * [NEW] upgrade pomelo-admin to 0.4.5
+  * [#751](https://github.com/NetEase/pomelo/pull/751)
+  * [#741](https://github.com/NetEase/pomelo/pull/741)
+  * [#740](https://github.com/NetEase/pomelo/pull/740)
+  * [FIX] fix wrong variable in protobuf
+
 1.1.9 / 2015-06-05
 =================
   * [NEW] upgrade pomelo-rpc to 0.4.10
